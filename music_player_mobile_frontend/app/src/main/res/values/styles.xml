@@ -1,0 +1,21 @@
+<resources>
+    <style name="Theme.HarmonyPlayer" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorTertiary">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorSecondary</item>
+        <item name="android:navigationBarColor">@color/colorSecondary</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="Theme.HarmonyPlayer.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorTertiary">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorSecondary</item>
+        <item name="android:navigationBarColor">@color/colorSecondary</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Harmony Player</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="new_playlist">New Playlist</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="choose_theme">Choose Theme</string>
+    <string name="search_hint">Search songs, artists, albums</string>
+    <string name="no_results">No results</string>
+</resources>
