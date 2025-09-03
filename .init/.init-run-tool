@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/harmony-music-player-17311-17320/music_player_mobile_frontend"
+}
